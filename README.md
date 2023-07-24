@@ -1,3 +1,3 @@
 ## Legal Solutions
 
-Live Link -> 
+Live Link -> https://rockyhaque.github.io/legal-solutions/
